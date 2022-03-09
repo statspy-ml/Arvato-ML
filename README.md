@@ -9,7 +9,7 @@ This project employs both **unsupervised** (PCA and Dimensionality Reduction, k-
 
 
 # Project Notebook Review
-
+Under avaliation.  Sent in March 9 2022.
 # Table of Contents
 
 - **Project_Notebook**
@@ -23,28 +23,13 @@ This project employs both **unsupervised** (PCA and Dimensionality Reduction, k-
 
 # Requirements
 
-The Jupyter Notebook is written in **Python** (3.x. version required). 
-
-> This project requires you to install the listed libraries in the requirement.txt file and Anaconda distribution Python 3.6
-
-
-The main **packages** used are:
-
-`numpy`: scientific computing tools
-
-`pandas`: data structures and data analysis tools
-
-`matplotlib`: data visualisation tools
-
-`seaborn`: data visualisation tools
-
-`scikit-learn` (sklearn): Machine Learning library in Python
-
 # Results
 
 # Acknowledgements
 
 # Author
+Rodrigo Polverari Pacheco de Toledo
+http://www.linkedin.com/in/rodrigopptoledo
 
 
 
